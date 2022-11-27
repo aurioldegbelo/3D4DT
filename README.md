@@ -1,7 +1,7 @@
-# Interactive Guidelines for Thematic Map Choice
+# Decision Trees for Thematic Map Creation as an Interactive 3D Scenes
 
 This application allows the user to visualise decision trees for thematic map choice in a three-dimensional scene.
-Either one of two examples can be chosen or an own decision tree can be uploaded. A .zip-file is available to ease up the conversion of decision trees into the format.
+Either one of two examples can be chosen or an own decision tree can be uploaded. A .zip-file is available to ease up the conversion of decision trees into the format. This .zip file is available in the folder TreeAsJSON.
 
 ### Used Technologies:
 The [app](https://igftmc.herokuapp.com/) was implemented using Node.js, Vitejs, Bootstrap and Three.js. 
