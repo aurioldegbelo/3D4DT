@@ -1,1 +1,1 @@
-This folder provides examples of decision trees encoded as JSON, the specification of the JSON-schema as well as a template to get started.
+This folder provides examples of decision trees encoded as JSON (json-examples.zip), the specification of the JSON-schema (json-schema.json) as well as a template to get started (template.json).
