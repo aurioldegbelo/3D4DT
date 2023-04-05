@@ -1,6 +1,6 @@
 # Decision Trees for Thematic Map Creation as an Interactive 3D Scenes
 
-This application allows the user to visualise decision trees for thematic map choice in a three-dimensional scene.
+This application allows the user to visualise decision trees for thematic map choice in a [three-dimensional scene](https://youtu.be/64YKQ40dd0o).
 Either one of two examples can be chosen or an own decision tree can be uploaded. A .zip-file is available to ease up the conversion of decision trees into the format. This .zip file is available in the folder [tree-as-json](https://github.com/aurioldegbelo/3D4DT/tree/main/tree-as-json).
 
 ### Used Technologies:
